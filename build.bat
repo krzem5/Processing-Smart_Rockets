@@ -1,1 +1,3 @@
-start "" "projects/Processing-Smart_Rockets/index/index.pde"
+@echo off
+cls
+python build.py %*
